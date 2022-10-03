@@ -1,0 +1,10 @@
+{
+  "name": "main-node-dot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "b/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "license": "MIT"
+}
